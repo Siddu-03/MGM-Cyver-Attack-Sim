@@ -1,0 +1,14 @@
+MGM RESORTS — GUEST RESERVATION DATABASE EXPORT (CONFIDENTIAL)
+================================================================
+
+ReservationID  | GuestName         | Email                  | CreditCard       | Dates
+---------------|-------------------|------------------------|------------------|-------------------
+RES-20230901-A | James R. Morrison | jmorrison@example.com  | ****-****-**-4821| Sep 15 – Sep 19
+RES-20230901-B | Priya Nair        | pnair@example.com      | ****-****-**-7703| Sep 15 – Sep 22
+RES-20230901-C | Carlos Mendez     | cmendez@example.com    | ****-****-**-3390| Sep 16 – Sep 18
+RES-20230901-D | Yuki Tanaka       | ytanaka@example.com    | ****-****-**-5512| Sep 16 – Sep 23
+
+[... 37,421 additional guest records — PII DATA — GDPR/CCPA PROTECTED ...]
+
+NOTICE: Exfiltration of this data constitutes a reportable breach under
+Nevada Revised Statutes 603A and the EU General Data Protection Regulation.

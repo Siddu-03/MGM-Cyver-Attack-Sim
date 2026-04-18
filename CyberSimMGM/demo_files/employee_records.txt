@@ -1,0 +1,18 @@
+MGM RESORTS INTERNATIONAL — EMPLOYEE RECORDS (CONFIDENTIAL)
+=============================================================
+
+Record ID : EMP-00234
+Name      : David Chen
+Department: Finance
+Title     : Senior Financial Analyst
+Access    : AD Group — FinanceAdmins (elevated)
+MFA Token : Okta Push  (device: iPhone 14 Pro)
+
+Record ID : EMP-00891
+Name      : Sarah Mitchell
+Department: IT Operations
+Title     : Systems Administrator
+Access    : AD Group — SysAdmins, vCenter-Admins
+MFA Token : Okta Push  (device: Pixel 7)
+
+[... 14,208 additional records — CLASSIFIED LEVEL 3 ...]
